@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="info.md" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
